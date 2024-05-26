@@ -29,9 +29,8 @@ Clique com o botão direito no arquivo Main.java e selecione Run 'Principal.main
 
 Siga as instruções do programa no console:
 
-#Exemplo de uso
+# Exemplo de uso
 ````
-
 Seja bem vindo ao conversor de modedas!
 Digite o código da moeda exemplos de moedas: 
 AUD:Dólar Australiano
@@ -66,4 +65,10 @@ Os registros das conversões:
 Registro número 1: Moeda Base para a conversão: [USD] Moeda a ser convertida: [BRL] Resultado da conversão: 5.14
 Registro número 2: Moeda Base para a conversão: [CAD] Moeda a ser convertida: [BRL] Resultado da conversão: 3.75
 Programa finalizado!
+````
+Após isto será salvo em um arquivo .txt
+````
+Moeda Base para a conversão: [USD] Moeda a ser convertida: [BRL] Resultado da conversão: 5.14
+Moeda Base para a conversão: [CAD] Moeda a ser convertida: [BRL] Resultado da conversão: 3.75
+Data: 2024-05-26 Hora: 19:40 (America/Sao_Paulo)
 ````
