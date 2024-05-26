@@ -6,7 +6,6 @@
   fazer outra conversão, após mostra os registros de conversões e a data hora e local do registro e as salva em um arquivo .txt 
   
 # Tecnologias utilizadas
-## Back end
 - Java 
 - Biblioteca Gson
 - Maven
